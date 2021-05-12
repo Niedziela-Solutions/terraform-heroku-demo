@@ -1,0 +1,3 @@
+app_name = "terraform-test-app"
+secret_key_base = "generate this"
+heroku_stack = "heroku-20"
